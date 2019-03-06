@@ -63,7 +63,7 @@ class App extends Component {
         <header className="masthead">
           <div className="container">
             <div className="intro-text">
-              <div className="intro-lead-in">Welcome To Our Studio!</div>
+              <div className="intro-lead-in">Welcome To Tuwaiq Bootcamp!</div>
               <div className="intro-heading text-uppercase">
                 It's Nice To Meet You
               </div>
